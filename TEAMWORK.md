@@ -1,1 +1,7 @@
-# TEAMWORK
+# **TEAMWORK** :sparkles:
+
+## _DIVISION OF LABOUR_
+
+## _TIMING_
+
+## _COMMUNICATION_
