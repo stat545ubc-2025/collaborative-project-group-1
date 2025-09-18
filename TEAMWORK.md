@@ -8,7 +8,7 @@
 
 ### We have 5 members: ###
 1. Kevin
-2. Danielle
+2. Danielle :black_cat:
 3. Sasha
 4. Jonathan
 5. Taysia
