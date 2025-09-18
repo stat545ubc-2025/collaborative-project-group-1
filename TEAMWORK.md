@@ -15,7 +15,7 @@
 
 ### We have 5 members: ###
 1. Kevin
-2. Danielle :black_cat:
+2. Danielle :black_cat: :bouquet:
 3. Sasha 🛸
 4. Jonathan
 5. Taysia :seedling: 🐙
@@ -34,7 +34,7 @@ Danielle: Set up group chat (group admin). Established groups "GRADED pull reque
 
 Sasha: Fixing merge conflicts between branches, entered the graded pull request pairing and slack huddle group in the TEAMWORK.md. Also contribute to troubleshooting and README file. 
 
-Taysia: Added to the TEAMWORK file and handled merge conflicts in my branch caused by multiple updates to the main branch
+Taysia: Added to the TEAMWORK file (table of conflicts) and handled merge conflicts in my branch caused by multiple updates to the main branch
 
 Jonathan:
 
