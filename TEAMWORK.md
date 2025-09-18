@@ -25,7 +25,8 @@ Kevin: Set up repo and provide initial drafts for documents
 Pull requests will be submitted 24 hours prior to deadline of assignment
 
 ## _COMMUNICATION_
-[//]: # ()
+[//]: # (How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?)
+
 The team will use Slack for real-time discussions and GitHub Issues for task-specific communication and tracking progress. 
 Slack will be used for quick questions, coordination, and for planning division of labour, while GitHub Issues will store decisions and detailed technical discussions. 
 Team members will aim to respond to Slack messages and Github issues in a timely manner to able to complete the assignment on time. 
