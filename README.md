@@ -21,4 +21,4 @@ This repository includes:
 -->
 How to access code within the repository: 
 
-Members of the group all have access to the shared GitHub repository. Each member can clone the repo/ open it as a new RStudio project to their local device, and then pull updates to stay in sync. Once the code is on their computer, they can run it. 
+Members of the group all have access to the shared GitHub repository. Each member can clone the repo/ open it as a new RStudio project to their local device, and then pull updates to stay in sync. Once the code is on their computer, they can run it! 
