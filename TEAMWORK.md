@@ -14,15 +14,23 @@
 5. Taysia
 
 ## _DIVISION OF LABOUR_
-[//]: # (Division of Labour: How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has been identified.)
+_//_: # (Division of Labour: How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has clear content.)
+Kevin: Set up repo and provide initial drafts for documents
 
-Kevin: Set up repo and provide initial drafts for documents 
+### _GRADED PULL REQUESTS PAIRING_ ###
+The pull request is to add an emoji next to your name under THE TEAM
 
+ENTERS PULL REQUEST | ACCEPTS PULL REQUEST  
+--------------------|---------------------  
+DANIELLE | KEVIN  
+KEVIN | DANIELLE  
+TAYSIA | SASHA  
+JONATHAN | TAYSIA  
+SASHA | JONATHAN  
 
 ## _TIMING_
-[//]: # (When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last-minute. Your teammate’s review of your work may not be trivial: if there are errors, your team will need time to debug them.)
-
-Pull requests will be submitted 24 hours prior to deadline of assignment
+_//_: # (When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last–minute. Your teammate may not be able to review it in time.)
+Pull requests will be submitted 24 hours prior to deadline of assignment, this will allow us to have adequate time to debug.
 
 ## _COMMUNICATION_
 [//]: # (How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?)
@@ -30,4 +38,4 @@ Pull requests will be submitted 24 hours prior to deadline of assignment
 The team will use Slack for real-time discussions and GitHub Issues for task-specific communication and tracking progress. 
 Slack will be used for quick questions, coordination, and for planning division of labour, while GitHub Issues will store decisions and detailed technical discussions. 
 Team members will aim to respond to Slack messages and Github issues in a timely manner to able to complete the assignment on time. 
-We will hold a virtual check-in meetings when needed to discuss progress and next steps.
+We will hold a virtual check-in meetings when needed to discuss progress and next steps, these meetings will be held through our [Slack huddle group](https://app.slack.com/huddle/T09A488KAUT/C09EX911AEQ). 
