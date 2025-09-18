@@ -9,7 +9,7 @@
 ### We have 5 members: ###
 1. Kevin
 2. Danielle :black_cat:
-3. Sasha
+3. Sasha :laptop:
 4. Jonathan
 5. Taysia
 
@@ -21,7 +21,7 @@ Kevin: Set up repo and provide initial drafts for documents
 
 Danielle: Set up group chat (group admin). Established groups "GRADED pull request" format as adding an emoji to our name. Will also revise the rubric prior to submission and confirm with the group that we have hit all points on the rubric.
 
-Sasha: 
+Sasha: Fixing merge conflicts between branches, entered the graded pull request pairing and slack huddle group in the TEAMWORK.md. Also contribute to troubleshooting and README file. 
 
 Taysia:
 
