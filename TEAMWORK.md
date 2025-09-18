@@ -42,6 +42,8 @@ SASHA | JONATHAN
 <!-- When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last–minute. Your teammate may not be able to review it in time.
 Pull requests will be submitted 24 hours prior to deadline of assignment, this will allow us to have adequate time to debug.
 -->
+Pull requests will be submitted 24 hours prior to deadline of assignment to allow for adequate time to debug. 
+
 
 ## _COMMUNICATION_ ##
 <!-- How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?
