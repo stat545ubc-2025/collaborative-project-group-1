@@ -1,5 +1,10 @@
-# **TEAMWORK** :sparkles: #
-
+---
+title: "**TEAMWORK** :sparkles:"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
 ## THE TEAM ##
 
 ### Our Team is located on UBC campus ###
@@ -23,7 +28,7 @@ Danielle: Set up group chat (group admin). Established groups "GRADED pull reque
 
 Sasha: 
 
-Taysia:
+Taysia: Added to the TEAMWORK file and handled merge conflicts in my branch caused by multiple updates to the main branch
 
 Jonathan:
 
