@@ -17,6 +17,7 @@
 [//]: # (Division of Labour: How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has been identified.)
 
 Kevin: Set up repo and provide initial drafts for documents 
+Danielle: Set up group chat (group admin). Established groups "GRADED pull request" format as adding an emoji to our name. Will also revise the rubric prior to submission and confirm with the group that we have hit all points on the rubric.
 
 
 ## _TIMING_
