@@ -16,7 +16,7 @@
 ## _DIVISION OF LABOUR_
 Kevin: Set up repo and provide initial drafts for documents. 
 
-### _GRADED PULL REQUESTS PAIRNG_####
+### _GRADED PULL REQUESTS PAIRNG_###
 The pull request is to add an emoji next to your name under THE TEAM 
 
 ENTERS PULL REQUEST | ACCEPTS PULL REQUEST 
