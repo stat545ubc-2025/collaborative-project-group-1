@@ -18,7 +18,7 @@
 2. Danielle :black_cat:
 3. Sasha 🛸
 4. Jonathan
-5. Taysia :seedling:
+5. Taysia :seedling: 🐙
 
 ## _DIVISION OF LABOUR_ ##
 <!-- Division of Labour: How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has clear content.
