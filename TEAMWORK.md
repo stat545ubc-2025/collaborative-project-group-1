@@ -1,10 +1,12 @@
----
-title: "**TEAMWORK** :sparkles:"
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
+# **TEAMWORK** :sparkles:
+
+## Table of Contents
+- [THE TEAM](#the-team)
+- [_DIVISION OF LABOUR_](#division-of-labour)
+- [_GRADED PULL REQUESTS PAIRING_](#graded-pull-requests-pairing)
+- [_TIMING_](#timing)
+- [_COMMUNICATION_](#communication)
+
 ## THE TEAM ##
 
 ### Our Team is located on UBC campus ###
@@ -16,7 +18,7 @@ output:
 2. Danielle :black_cat:
 3. Sasha 🛸
 4. Jonathan
-5. Taysia
+5. Taysia :seedling:
 
 ## _DIVISION OF LABOUR_ ##
 <!-- Division of Labour: How will you divide the work required for this milestone? Be sure to include what work will be done individually, so that the work in each teammate’s pull request has clear content.
