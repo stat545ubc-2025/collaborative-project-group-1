@@ -32,9 +32,9 @@ The pull request is to add an emoji next to your name under THE TEAM
 
 ENTERS PULL REQUEST | ACCEPTS PULL REQUEST  
 --------------------|---------------------  
-DANIELLE | KEVIN  
+DANIELLE | SASHA  
 KEVIN | DANIELLE  
-TAYSIA | SASHA  
+TAYSIA | KEVIN  
 JONATHAN | TAYSIA  
 SASHA | JONATHAN  
 
