@@ -44,7 +44,7 @@ Pull requests will be submitted 24 hours prior to deadline of assignment, this w
 -->
 
 ## _COMMUNICATION_ ##
-<! -- How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?
+<!-- How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?
 --> 
 
 The team will use Slack for real-time discussions and GitHub Issues for task-specific communication and tracking progress. 
