@@ -1,4 +1,4 @@
-# **TEAMWORK** :sparkles:"
+# **TEAMWORK** :sparkles:
 
 ## Table of Contents
 - [THE TEAM](#the-team)
