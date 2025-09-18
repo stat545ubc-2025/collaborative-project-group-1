@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9EMQ9uX-)
 
-<!-- What is this project?
--->
+## What is this project? ## 
 
 This repository contains the **Collaborative Project Deliverable 1** for _UBC STAT 545A_.   
 It serves as an exercise to gain hands-on experience with using and collaborating on GitHub.
