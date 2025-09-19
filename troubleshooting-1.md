@@ -17,6 +17,7 @@ First, let’s store the current date as a variable. We can use the
 function `Sys.Date` with no arguments to get the current date:
 
 ``` r
+## Modified "_today_" to "today" on line 18 (removed underscore from object name) ##
 today <- Sys.Date()
 ```
 
