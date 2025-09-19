@@ -1,3 +1,4 @@
+
 # **TEAMWORK** :sparkles:
 
 ## Table of Contents
@@ -14,10 +15,10 @@
 ![UBC Campus](https://visit.ubc.ca/wp-content/uploads/2019/09/UBC_mainmall1_1940x1216.jpg)
 
 ### We have 5 members: ###
-1. Kevin
+1. Kevin 🍔
 2. Danielle :black_cat: :bouquet:
-3. Sasha 🛸
-4. Jonathan
+3. Sasha 🪤
+4. Jonathan :octocat:
 5. Taysia :seedling: 🐙
 
 ## _DIVISION OF LABOUR_ ##
@@ -36,7 +37,7 @@ Sasha: Fixing merge conflicts between branches, entered the graded pull request 
 
 Taysia: Added to the TEAMWORK file (table of contents) and handled merge conflicts in my branch caused by multiple updates to the main branch
 
-Jonathan:
+Jonathan: Fixing merge conflicts between pull requests, contributed to TEAMWORK.MD 
 
 ### _GRADED PULL REQUESTS PAIRING_ ###
 The pull request is to add an emoji next to your name under THE TEAM
