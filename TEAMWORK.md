@@ -36,7 +36,7 @@ Sasha: Fixing merge conflicts between branches, entered the graded pull request 
 
 Taysia: Added to the TEAMWORK file (table of contents) and handled merge conflicts in my branch caused by multiple updates to the main branch
 
-Jonathan:
+Jonathan: Fixing merge conflicts between pull requests, contributed to TEAMWORK.MD 
 
 ### _GRADED PULL REQUESTS PAIRING_ ###
 The pull request is to add an emoji next to your name under THE TEAM
