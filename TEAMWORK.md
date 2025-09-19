@@ -14,7 +14,7 @@
 ![UBC Campus](https://visit.ubc.ca/wp-content/uploads/2019/09/UBC_mainmall1_1940x1216.jpg)
 
 ### We have 5 members: ###
-1. Kevin
+1. Kevin 🍔
 2. Danielle :black_cat: :bouquet:
 3. Sasha 🛸
 4. Jonathan
