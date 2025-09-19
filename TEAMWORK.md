@@ -1,3 +1,4 @@
+
 # **TEAMWORK** :sparkles:
 
 ## Table of Contents
@@ -17,7 +18,7 @@
 1. Kevin 🍔
 2. Danielle :black_cat: :bouquet:
 3. Sasha 🪤
-4. Jonathan
+4. Jonathan :octocat:
 5. Taysia :seedling: 🐙
 
 ## _DIVISION OF LABOUR_ ##
