@@ -144,7 +144,7 @@ Using `summarize()`, we can find the minimum and the maximum rating by title, st
 
 ```{r}
 ### ERROR HERE ###
-# The error here was that the movie lens were not grouped by the title, so the min/max ratings were based on the min/max in the entire data set and not by titles
+# The error here was that the movie ratings were not grouped by the title, so the min/max ratings were based on the min/max in the entire data set rather than the title.
 movieLens %>%
   group_by(title) %>%
   mutate(min_rating = min(rating), 
