@@ -116,6 +116,7 @@ Without using `group_by()`, I want to find out how many movie reviews there have
 
 ```{r}
 ### ERROR HERE ###
+# changed tally(year) to count(title,year)
 movieLens %>%
   count(title,year)
 ```
@@ -124,6 +125,7 @@ Both `count()` and `tally()` can be grouped by multiple columns. Below, I want t
 
 ```{r}
 ### ERROR HERE ###
+# removed the c() 
 movieLens %>%
   count(title, rating, sort = TRUE)
 ```
