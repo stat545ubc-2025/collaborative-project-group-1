@@ -1,4 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9EMQ9uX-)
+<!-- [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9EMQ9uX-)
+-->
 
 ## What is this project? ## 
 
@@ -14,7 +15,7 @@ It serves as an exercise to gain hands-on experience with using and collaboratin
 ## This repository includes: ##
 
 1. A **Teamwork Markdown file** outlining the members of the group, how the group will communicate with each other and set expectations for working together. 
-2. A **Troubleshooting document** containing the exercises and corrections to be completed for this deliverable.
+2. A **Troubleshooting document** containing the exercises and corrections to be completed for this deliverable. Note: this is inlusive of one **.Rmd** and one **.md** documents. 
 3. A **README** file explaining the contents of our project. 
 
 
