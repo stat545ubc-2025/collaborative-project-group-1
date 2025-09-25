@@ -65,7 +65,8 @@ Now that we've had a quick look at the dataset, it would be interesting to explo
 
 ```{r}
 ### ERROR HERE ###
-head(movieLens)
+# Change month in filter #4 to use year instead.
+
 filter(movieLens, genres == "Drama")
 filter(movieLens, !genres == "Drama")
 filter(movieLens, year >= 2000)
@@ -77,6 +78,7 @@ While filtering for *all movies that do not belong to the genre drama* above, I 
 
 ```{r}
 ### ERROR HERE ###
+# Added everything() function to select other variables in a robust way
 movieLens %>%
   filter(!genres == "Drama") %>%
   select(title, genres, everything())
