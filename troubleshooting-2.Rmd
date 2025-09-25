@@ -17,12 +17,25 @@ Note that errors are not all syntactic (i.e., broken code)! Some are logical err
 
 ```{r}
 ### ERROR HERE ###
-load.packages(dslabs)
-load.packages(tidyverse)
-load.packages(stringr)
-install.packages("devtools") # Do not run this if you already have this package installed! 
-devtools::install_github("JoeyBernhardt/singer")
-load.packages(gapminder)
+# Fixed installing of packages (and commented them out) and loaded packages from library
+
+#install.packages('dslabs')
+library(dslabs)
+
+#install.packages('tidyverse')
+library('tidyverse')
+
+#install.packages('stringr') 
+library(stringr)
+
+#install.packages("devtools") # Do not run this if you already have this package installed! 
+library(devtools)
+
+#devtools::install_github("JoeyBernhardt/singer", force = TRUE)
+
+#install.packages('gapminder')
+library(gapminder)
+
 ```
 
 Let's have a look at the dataset! My goal is to:
