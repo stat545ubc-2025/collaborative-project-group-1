@@ -65,10 +65,11 @@ Now that we've had a quick look at the dataset, it would be interesting to explo
 
 ```{r}
 ### ERROR HERE ###
+head(movieLens)
 filter(movieLens, genres == "Drama")
 filter(movieLens, !genres == "Drama")
 filter(movieLens, year >= 2000)
-filter(movieLens, year == 1999 | month == 2000)
+filter(movieLens, year == 1999 | year == 2000)
 filter(movieLens, rating > 4.5, year < 1995)
 ```
 
@@ -78,7 +79,7 @@ While filtering for *all movies that do not belong to the genre drama* above, I 
 ### ERROR HERE ###
 movieLens %>%
   filter(!genres == "Drama") %>%
-  select(title, genres, year, rating, timestamp)
+  select(title, genres, everything())
 ```
 
 ## Exercise 2: Calculating with `mutate()`-like functions
