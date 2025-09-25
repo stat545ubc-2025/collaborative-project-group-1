@@ -4,7 +4,7 @@ output: github_document
 ---
 
 ```{r include = FALSE}
-knitr::opts_chunk$set(error = TRUE)
+knitr::opts_chunk$set(error = TRUE)'###
 ```
 
 There are **11 code chunks with errors** in this Rmd. Your objective is to fix all of the errors in this worksheet. For the purpose of grading, each erroneous code chunk is equally weighted.
