@@ -15,8 +15,9 @@ It serves as an exercise to gain hands-on experience with using and collaboratin
 ## This repository includes: ##
 
 1. A **Teamwork Markdown file** outlining the members of the group, how the group will communicate with each other and set expectations for working together. 
-2. A **Troubleshooting document** containing the exercises and corrections to be completed for this deliverable. Note: this is inlusive of one **.Rmd** and one **.md** documents. 
-3. A **README** file explaining the contents of our project. 
+2. A **Troubleshooting-1 document** containing the exercises and corrections to be completed for the first deliverable. Note: this is inlusive of one **.Rmd** and one **.md** documents. 
+3. A **Troubleshooting-2 document** containing the exercises and corrections to be completed for the second deliverable. Note: this is inlusive of one **.Rmd** and one **.md** documents. 
+4. A **README** file explaining the contents of our project. 
 
 
 <!-- How can they run code that appears in your folder / GitHub repository? Again, at a high level.
