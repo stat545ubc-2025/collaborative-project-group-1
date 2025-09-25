@@ -50,6 +50,18 @@ TAYSIA | KEVIN
 JONATHAN | TAYSIA  
 SASHA | JONATHAN  
 
+## _Troubleshooting Document 2_ ##
+
+#### Exercise 1: Exploring with `select()` and `filter()` --> Danielle
+
+#### Exercise 2: Calculating with `mutate()`-like functions --> Kevin
+
+#### Exercise 3: Calculating with `summarise()`-like functions --> Taysia
+
+#### Exercise 4: Calculating with `group_by()` --> Sasha
+
+#### Exercise 5: Scoped variants with `across()` --> Danielle & Taysia
+
 ## _TIMING_ ## 
 <!-- When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last–minute. Your teammate may not be able to review it in time.
 -->
