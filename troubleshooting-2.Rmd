@@ -90,6 +90,7 @@ Some of the variables in the `movieLens` dataset are in *camelCase* (in fact, *m
 
 ```{r}
 ### ERROR HERE ###
+# Modified to snake case by adding underscore "_" to movieLens and making lower case. Also removed a "=" from the rename function
 movie_lens <- movieLens %>%
   rename(user_id = userId,
          movie_id = movieId)
@@ -99,6 +100,7 @@ As you already know, `mutate()` defines and inserts new variables into a tibble.
 
 ```{r}
 ### ERROR HERE ### 
+# Modified the function to be transmute instead of mutate
 transmute(movieLens,
        average_rating = mean(rating))
 ```
