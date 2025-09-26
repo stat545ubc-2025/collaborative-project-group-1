@@ -377,28 +377,27 @@ title, stored under columns named `min_rating`, and `max_rating`,
 respectively.
 
 ``` r
-### The error here was that the movie ratings were not grouped by the title, so the min/max ratings were based on the min/max in the entire data set rather than the title ###
+### The error here was that the movie ratings were not grouped by the title, so the min/max ratings were based on the min/max in the entire data set rather than the title, additionally the code was mutate() instead of summarize(), using summarize the dataset is now considering each row the movie title, rather than each row being the individual reviews ###
 movieLens %>%
   group_by(title) %>%
-  mutate(min_rating = min(rating), 
+  summarize(min_rating = min(rating), 
          max_rating = max(rating))
 ```
 
-    ## # A tibble: 100,004 × 9
-    ## # Groups:   title [8,832]
-    ##    movieId title                                    year genres                           userId rating  timestamp min_rating max_rating
-    ##      <int> <chr>                                   <int> <fct>                             <int>  <dbl>      <int>      <dbl>      <dbl>
-    ##  1      31 Dangerous Minds                          1995 Drama                                 1    2.5 1260759144        1.5          5
-    ##  2    1029 Dumbo                                    1941 Animation|Children|Drama|Musical      1    3   1260759179        1.5          5
-    ##  3    1061 Sleepers                                 1996 Thriller                              1    3   1260759182        2            5
-    ##  4    1129 Escape from New York                     1981 Action|Adventure|Sci-Fi|Thriller      1    2   1260759185        1            5
-    ##  5    1172 Cinema Paradiso (Nuovo cinema Paradiso)  1989 Drama                                 1    4   1260759205        2            5
-    ##  6    1263 Deer Hunter, The                         1978 Drama|War                             1    2   1260759151        0.5          5
-    ##  7    1287 Ben-Hur                                  1959 Action|Adventure|Drama                1    2   1260759187        0.5          5
-    ##  8    1293 Gandhi                                   1982 Drama                                 1    2   1260759148        1.5          5
-    ##  9    1339 Dracula (Bram Stoker's Dracula)          1992 Fantasy|Horror|Romance|Thriller       1    3.5 1260759125        1            5
-    ## 10    1343 Cape Fear                                1991 Thriller                              1    2   1260759131        2            5
-    ## # ℹ 99,994 more rows
+    ## # A tibble: 8,832 × 3
+    ##    title                              min_rating max_rating
+    ##    <chr>                                   <dbl>      <dbl>
+    ##  1 "\"Great Performances\" Cats"             0.5        3  
+    ##  2 "$9.99"                                   2.5        4.5
+    ##  3 "'Hellboy': The Seeds of Creation"        2          2  
+    ##  4 "'Neath the Arizona Skies"                0.5        0.5
+    ##  5 "'Round Midnight"                         0.5        4  
+    ##  6 "'Salem's Lot"                            3.5        3.5
+    ##  7 "'Til There Was You"                      0.5        4  
+    ##  8 "'burbs, The"                             1.5        4.5
+    ##  9 "'night Mother"                           5          5  
+    ## 10 "(500) Days of Summer"                    0.5        5  
+    ## # ℹ 8,822 more rows
 
 ## Exercise 5: Scoped variants with `across()`
 
