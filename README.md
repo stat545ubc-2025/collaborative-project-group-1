@@ -3,7 +3,7 @@
 
 ## What is this project? ## 
 
-This repository contains the **Collaborative Project Deliverable 1** for _UBC STAT 545A_.   
+This repository contains the **Collaborative Project Deliverable 1 & 2** for _UBC STAT 545A_.   
 It serves as an exercise to gain hands-on experience with using and collaborating on GitHub.
 
 ![Stats Stock image](https://media.istockphoto.com/id/1455958730/vector/data-monitoring-and-analysis-on-desktop-tiny-people-with-magnifying-glass-research-graph.jpg?s=612x612&w=0&k=20&c=aL-XEnEBILCzi-qX_7tUn84FH7Ei_YoJTxlcGCY0Vb8=)
