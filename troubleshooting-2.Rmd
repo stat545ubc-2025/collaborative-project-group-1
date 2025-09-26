@@ -119,6 +119,7 @@ Without using `group_by()`, I want to find out how many movie reviews there have
 
 ```{r}
 ### ERROR HERE ###
+# changed tally(year) to count(title,year)
 movieLens %>%
   count(title,year)
 ```
@@ -127,6 +128,7 @@ Both `count()` and `tally()` can be grouped by multiple columns. Below, I want t
 
 ```{r}
 ### ERROR HERE ###
+# removed the c() 
 movieLens %>%
   count(title, rating, sort = TRUE)
 ```
@@ -173,9 +175,10 @@ We can find the minimum height and mass within each species, ignoring the missin
 
 ```{r}
 ### ERROR HERE ###
+# Modified the summarise() function to group the height and mass columns by using c()
 starWars %>%
   group_by(species) %>%
-  summarise(across("height", "mass", function(x) min(x, na.rm=TRUE)))
+  summarise(across(c("height", "mass"), function(x) min(x, na.rm=TRUE)))
 ```
 
 Note that here R has taken the convention that the minimum value of a set of `NA`s is `Inf`.
